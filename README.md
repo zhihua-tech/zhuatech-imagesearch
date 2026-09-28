@@ -1,5 +1,7 @@
 # ZhuaTech ImageSearch｜知华科技企业以图搜图
 
+[简体中文](README.md) | [English](README.en.md)
+
 企业图片越积越多，“文件名不知道、目录记不住、版权状态不清楚”会让素材复用变得困难。ZhuaTech ImageSearch 是上海如静知华信息科技有限公司开发的独立图片资产检索案例，提供可解释排序、授权过滤和视觉向量服务接入边界。
 
 [知华科技官网](https://www.zhuatech.cn/) · `cn.zhuatech.imagesearch` · `POST /api/imagesearch/search`
